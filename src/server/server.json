@@ -1,0 +1,29 @@
+{
+  "profile": [
+    {
+      "id": 1,
+      "name":"Iphoe 14 pro",
+      "description":"The iPhone 14 Pro comes with a 6.1-inch ProMotion OLED display with 1-120Hz adaptive refresh rates, Dolby Vision, and a Face ID Dynamic Island that allows Apple to utilize an always-on display feature, which dims the lock screen similarly to an Apple Watch.",
+      "price":999.9,
+      "count":10,
+      "image":"https://www.zigzag.am/media/catalog/product/cache/811d9bdbaebf1cf745388b9849057259/3/4/3477040.jpg"
+    },
+    {
+      "id": 2,
+      "name":"Macbook Pro 16",
+      "description":"Apple MacBook Pro is a macOS laptop with a 13.30-inch display that has a resolution of 2560x1600 pixels. It is powered by a Core i5 processor and it comes with 12GB of RAM. The Apple MacBook Pro packs 512GB of SSD storage.",
+      "price":1250,
+      "count":7,
+      "image":"https://www.zigzag.am/media/catalog/product/cache/811d9bdbaebf1cf745388b9849057259/4/2/4267654_1.jpg"
+
+    },
+    {
+      "id": 3,
+      "name":"Ipad",
+      "description":"",
+      "price":600,
+      "count":15,
+      "image":"https://www.zigzag.am/media/catalog/product/cache/811d9bdbaebf1cf745388b9849057259/4/2/4265301.jpg"
+    }
+  ]
+}
